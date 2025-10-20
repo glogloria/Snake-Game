@@ -1,0 +1,16 @@
+# 🕹️ Snake Game
+Snake game is a classic online game built using Java and the Swing GUI toolkit & API. The game is keyboard controlled where a growing snake collects food and avoids collisions.
+
+
+For me, this project began as a learning exercise to improve my knowledge of using Java and Swing to build interactive games. I started with a tutorial to build the game but have since extended it with custom features and design improvements to make it my own.
+
+
+## What I learned
+- Swing GUI toolkit & API applications
+- Handling keyboard input and real-time updates
+- Structuring object-oritented code for an interactive game
+
+## Added Features
+- Game customization
+- - The user can customize the snake and game frame with color
+- Movement with arrow keys
