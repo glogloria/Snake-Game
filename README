@@ -5,7 +5,7 @@ Snake game is a classic online game built using Java and the Swing GUI toolkit &
 ## What I learned
 - Swing GUI toolkit & API applications
 - Handling keyboard input and real-time updates
-- Structuring object-oritented code for an interactive game
+- Structuring object-oriented code for an interactive game
 
 ## Added Features
 - Game customization
